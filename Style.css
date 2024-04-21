@@ -1,0 +1,10 @@
+
+body{    
+    min-height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-image:url("https://img.freepik.com/fotos-premium/balon-futbol-3d-objeto-3d-ilustracion-grafico-fondo-elemento-deporte-resumen_262243-1985.jpg?size=626&ext=jpg&ga=GA1.1.1357918307.1712430445&semt=ais")}
+
+h1, h2{color: whitesmoke;font-weight: bold;}
+
